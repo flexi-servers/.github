@@ -2,7 +2,7 @@
 
 Welcome to Flexi-Servers.
 
-[Website](https://flexi-servers.com) | [Twitter](https://twitter.com/flexi_servers) | [Instagram](https://instagram.com/flexi_servers) | [TikTok](https://tiktok.com/@flexi_servers)
+[Website](https://flexi-servers.com) | [Twitter](https://twitter.com/flexisservers) | [Instagram](https://instagram.com/flexi_servers) | [TikTok](https://tiktok.com/@flexi_servers)
 
 ## About
 
