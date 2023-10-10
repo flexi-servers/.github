@@ -31,7 +31,7 @@ We appreciate contributions from the community. If you'd like to contribute to a
 
 If you have any questions or suggestions regarding our projects or organization, please feel free to reach out to us through one of the following channels:
 
-- Email: contact@flexi-servers.com
+- Email: [kontakt@flexi-servers.com](mailto:kontakt@flexi-servers.com)
 - Twitter: [@flexi_servers](https://twitter.com/flexi_servers)
 - Instagram: [@flexi_servers](https://instagram.com/flexi_servers)
 - TikTok: [@flexi_servers](https://tiktok.com/@flexi_servers)
