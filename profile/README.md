@@ -12,7 +12,7 @@ We are a dynamic organization specializing in server management and optimization
 
 Here are some of our public projects:
 
-- [Fusionauth Rust Client](https://github.com/flexi-servers/fusionauth-rust-client): We contribute to the open source Tool pydactyl.
+- [Fusionauth Rust Client](https://github.com/flexi-servers/fusionauth-rust-client): We provide the Rust package for Fusionauth.
 
 Feel free to explore our repositories for more exciting projects!
 
