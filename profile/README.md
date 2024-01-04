@@ -12,8 +12,7 @@ We are a dynamic organization specializing in server management and optimization
 
 Here are some of our public projects:
 
-- [pydactyl](https://github.com/flexi-servers/pydactyl): We contribute to the open source Tool pydactyl.
-- [Public-Api](https://github.com/flexi-servers/public-api): The community Public Api. We recommend sticking to this and not reverse engineer the other one.
+- [Fusionauth Rust Client](https://github.com/flexi-servers/fusionauth-rust-client): We contribute to the open source Tool pydactyl.
 
 Feel free to explore our repositories for more exciting projects!
 
@@ -38,4 +37,4 @@ If you have any questions or suggestions regarding our projects or organization,
 
 ---
 
-&copy; 2023 Flexi-servers. All rights reserved.
+&copy; 2024 Flexi-servers. All rights reserved.
